@@ -1,0 +1,35 @@
+2020-05-27/00:31:55		Error occured while validating FileName bad character range k-a at position 5
+2020-05-27/00:40:16		Valid File name!! File moved to GoodRaw Folder :: bank-additional.csv
+2020-05-27/00:43:05		Valid File name!! File moved to GoodRaw Folder :: bank-additional.csv
+2020-05-27/00:57:02		Valid File name!! File moved to GoodRaw Folder :: bank-additional.csv
+2020-05-27/00:59:58		Valid File name!! File moved to GoodRaw Folder :: bank-additional.csv
+2020-05-27/01:00:45		Valid File name!! File moved to GoodRaw Folder :: bank-additional.csv
+2020-05-27/01:01:09		Valid File name!! File moved to GoodRaw Folder :: bank-additional.csv
+2020-05-27/01:07:29		Valid File name!! File moved to GoodRaw Folder :: bank-additional.csv
+2020-05-27/01:12:52		Valid File name!! File moved to GoodRaw Folder :: bank-additional.csv
+2020-05-27/01:17:02		Valid File name!! File moved to GoodRaw Folder :: bank-additional.csv
+2020-05-27/01:30:56		Valid File name!! File moved to GoodRaw Folder :: bank-additional.csv
+2020-05-27/01:38:57		Valid File name!! File moved to GoodRaw Folder :: bank-additional.csv
+2020-05-27/15:47:28		Valid File name!! File moved to GoodRaw Folder :: bank-additional.csv
+2020-05-27/22:56:29		Valid File name!! File moved to GoodRaw Folder :: bank-additional.csv
+2020-05-27/23:47:17		Valid File name!! File moved to GoodRaw Folder :: bank-additional.csv
+2020-05-28/00:03:50		Valid File name!! File moved to GoodRaw Folder :: bank-additional.csv
+2020-05-28/00:06:05		Valid File name!! File moved to GoodRaw Folder :: bank-additional.csv
+2020-05-28/00:07:46		Valid File name!! File moved to GoodRaw Folder :: bank-additional.csv
+2020-05-28/00:18:40		Valid File name!! File moved to GoodRaw Folder :: bank-additional.csv
+2020-05-28/00:22:21		Valid File name!! File moved to GoodRaw Folder :: bank-additional.csv
+2020-05-28/01:09:57		Valid File name!! File moved to GoodRaw Folder :: bank-additional.csv
+2020-05-28/01:11:18		Valid File name!! File moved to GoodRaw Folder :: bank-additional.csv
+2020-05-28/01:13:11		Valid File name!! File moved to GoodRaw Folder :: bank-additional.csv
+2020-05-28/01:14:59		Valid File name!! File moved to GoodRaw Folder :: bank-additional.csv
+2020-05-28/01:17:09		Valid File name!! File moved to GoodRaw Folder :: bank-additional.csv
+2020-05-28/01:25:35		Valid File name!! File moved to GoodRaw Folder :: bank-additional.csv
+2020-05-28/01:30:21		Valid File name!! File moved to GoodRaw Folder :: bank-additional.csv
+2020-05-28/16:50:47		Valid File name!! File moved to GoodRaw Folder :: bank-additional.csv
+2020-05-28/20:32:07		Valid File name!! File moved to GoodRaw Folder :: bank-additional.csv
+2020-05-28/20:48:57		Valid File name!! File moved to GoodRaw Folder :: bank-additional.csv
+2020-05-28/21:10:46		Valid File name!! File moved to GoodRaw Folder :: bank-additional.csv
+2020-06-02/01:46:25		Valid File name!! File moved to GoodRaw Folder :: bank-additional.csv
+2020-06-13/17:47:39		Error occured while validating FileName [Errno 2] No such file or directory: 'Prediction_Batch_files/bank-additional.csv'
+2020-06-13/17:48:11		Valid File name!! File moved to GoodRaw Folder :: test.csv
+2020-06-13/17:56:25		Valid File name!! File moved to GoodRaw Folder :: test.csv

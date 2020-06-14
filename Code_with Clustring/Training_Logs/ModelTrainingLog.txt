@@ -1,0 +1,351 @@
+2020-05-26/11:22:36		Start of Training
+2020-05-26/11:22:36		Entered the get_data method of the Data_Getter class
+2020-05-26/11:22:37		Data Load Successful.Exited the get_data method of the Data_Getter class
+2020-05-26/11:22:42		Entered the separate_label_feature method of the Preprocessor class
+2020-05-26/11:23:01		Label Separation Successful. Exited the separate_label_feature method of the Preprocessor class
+2020-05-26/11:23:22		Entered the is_null_present method of the Preprocessor class
+2020-05-26/11:23:22		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2020-05-26/11:51:44		Entered the elbow_plot method of the KMeansClustering class
+2020-05-26/11:51:45		Exception occured in elbow_plot method of the KMeansClustering class. Exception message:  could not convert string to float: 'failure'
+2020-05-26/11:51:45		Finding the number of clusters failed. Exited the elbow_plot method of the KMeansClustering class
+2020-05-26/11:51:51		Unsuccessful End of Training
+2020-05-26/13:04:02		Start of Training
+2020-05-26/13:04:02		Entered the get_data method of the Data_Getter class
+2020-05-26/13:04:02		Data Load Successful.Exited the get_data method of the Data_Getter class
+2020-05-26/13:04:02		Entered the separate_label_feature method of the Preprocessor class
+2020-05-26/13:04:02		Label Separation Successful. Exited the separate_label_feature method of the Preprocessor class
+2020-05-26/13:04:02		Unsuccessful End of Training
+2020-05-26/13:09:11		Start of Training
+2020-05-26/13:09:11		Entered the get_data method of the Data_Getter class
+2020-05-26/13:09:11		Data Load Successful.Exited the get_data method of the Data_Getter class
+2020-05-26/13:09:11		Entered the separate_label_feature method of the Preprocessor class
+2020-05-26/13:09:11		Label Separation Successful. Exited the separate_label_feature method of the Preprocessor class
+2020-05-26/13:09:52		Unsuccessful End of Training
+2020-05-26/15:55:19		Start of Training
+2020-05-26/15:55:19		Entered the get_data method of the Data_Getter class
+2020-05-26/15:55:19		Data Load Successful.Exited the get_data method of the Data_Getter class
+2020-05-26/15:55:19		Entered the separate_label_feature method of the Preprocessor class
+2020-05-26/15:55:19		Label Separation Successful. Exited the separate_label_feature method of the Preprocessor class
+2020-05-26/15:55:49		Entered the is_null_present method of the Preprocessor class
+2020-05-26/15:55:49		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2020-05-26/15:56:05		Entered the elbow_plot method of the KMeansClustering class
+2020-05-26/15:58:28		The optimum number of clusters is: 2 . Exited the elbow_plot method of the KMeansClustering class
+2020-05-26/15:59:26		Entered the create_clusters method of the KMeansClustering class
+2020-05-26/16:00:44		Entered the save_model method of the File_Operation class
+2020-05-26/16:00:44		Model File KMeans saved. Exited the save_model method of the Model_Finder class
+2020-05-26/16:01:26		succesfully created 2clusters. Exited the create_clusters method of the KMeansClustering class
+2020-05-26/16:06:21		Unsuccessful End of Training
+2020-05-26/16:18:43		Start of Training
+2020-05-26/16:18:43		Entered the get_data method of the Data_Getter class
+2020-05-26/16:18:43		Data Load Successful.Exited the get_data method of the Data_Getter class
+2020-05-26/16:18:43		Entered the separate_label_feature method of the Preprocessor class
+2020-05-26/16:18:43		Label Separation Successful. Exited the separate_label_feature method of the Preprocessor class
+2020-05-26/16:18:43		Entered the is_null_present method of the Preprocessor class
+2020-05-26/16:18:43		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2020-05-26/16:18:43		Entered the elbow_plot method of the KMeansClustering class
+2020-05-26/16:18:55		The optimum number of clusters is: 2 . Exited the elbow_plot method of the KMeansClustering class
+2020-05-26/16:18:55		Entered the create_clusters method of the KMeansClustering class
+2020-05-26/16:18:55		Entered the save_model method of the File_Operation class
+2020-05-26/16:18:55		Exception occured in save_model method of the Model_Finder class. Exception message:  [WinError 3] The system cannot find the path specified: 'models/KMeans'
+2020-05-26/16:18:55		Model File KMeans could not be saved. Exited the save_model method of the Model_Finder class
+2020-05-26/16:18:55		Exception occured in create_clusters method of the KMeansClustering class. Exception message:  
+2020-05-26/16:18:55		Fitting the data to clusters failed. Exited the create_clusters method of the KMeansClustering class
+2020-05-26/16:18:55		Unsuccessful End of Training
+2020-05-26/20:05:20		Start of Training
+2020-05-26/20:05:20		Entered the get_data method of the Data_Getter class
+2020-05-26/20:05:20		Data Load Successful.Exited the get_data method of the Data_Getter class
+2020-05-26/20:05:20		Entered the separate_label_feature method of the Preprocessor class
+2020-05-26/20:05:20		Label Separation Successful. Exited the separate_label_feature method of the Preprocessor class
+2020-05-26/20:05:21		Entered the is_null_present method of the Preprocessor class
+2020-05-26/20:05:21		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2020-05-26/20:05:21		Entered the elbow_plot method of the KMeansClustering class
+2020-05-26/20:05:32		The optimum number of clusters is: 2 . Exited the elbow_plot method of the KMeansClustering class
+2020-05-26/20:05:32		Entered the create_clusters method of the KMeansClustering class
+2020-05-26/20:05:33		Entered the save_model method of the File_Operation class
+2020-05-26/20:05:33		Model File KMeans saved. Exited the save_model method of the Model_Finder class
+2020-05-26/20:05:33		succesfully created 2clusters. Exited the create_clusters method of the KMeansClustering class
+2020-05-26/20:05:43		Entered the get_best_model method of the Model_Finder class
+2020-05-26/20:05:45		Entered the get_best_params_for_xgboost method of the Model_Finder class
+2020-05-26/20:05:52		XGBoost model train method done of the Model_Finder class
+2020-05-26/20:06:31		Entered the lgb_classifier class
+2020-05-26/20:06:33		LGBoost model train method done of the Model_Finder class
+2020-05-26/20:07:03		Entered the get_best_params_for_xgboost method of the Model_Finder class
+2020-05-26/20:08:40		CatBoost model train method done of the Model_Finder class
+2020-05-26/20:09:55		Entered the save_model method of the File_Operation class
+2020-05-26/20:10:20		Model File CatBoost0 saved. Exited the save_model method of the Model_Finder class
+2020-05-26/20:10:47		Entered the get_best_model method of the Model_Finder class
+2020-05-26/20:10:47		Entered the get_best_params_for_xgboost method of the Model_Finder class
+2020-05-26/20:10:47		XGBoost model train method done of the Model_Finder class
+2020-05-26/20:10:47		Entered the lgb_classifier class
+2020-05-26/20:10:48		LGBoost model train method done of the Model_Finder class
+2020-05-26/20:10:48		Entered the get_best_params_for_xgboost method of the Model_Finder class
+2020-05-26/20:11:03		CatBoost model train method done of the Model_Finder class
+2020-05-26/20:11:13		Entered the save_model method of the File_Operation class
+2020-05-26/20:11:13		Model File CatBoost1 saved. Exited the save_model method of the Model_Finder class
+2020-05-26/20:11:17		Successful End of Training
+2020-05-27/22:53:41		Start of Training
+2020-05-27/22:53:41		Entered the get_data method of the Data_Getter class
+2020-05-27/22:53:41		Data Load Successful.Exited the get_data method of the Data_Getter class
+2020-05-27/22:53:41		Entered the separate_label_feature method of the Preprocessor class
+2020-05-27/22:53:41		Label Separation Successful. Exited the separate_label_feature method of the Preprocessor class
+2020-05-27/22:53:42		Entered the is_null_present method of the Preprocessor class
+2020-05-27/22:53:42		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2020-05-27/22:53:42		Entered the elbow_plot method of the KMeansClustering class
+2020-05-27/22:53:56		The optimum number of clusters is: 2 . Exited the elbow_plot method of the KMeansClustering class
+2020-05-27/22:53:56		Entered the create_clusters method of the KMeansClustering class
+2020-05-27/22:53:56		Entered the save_model method of the File_Operation class
+2020-05-27/22:53:56		Model File KMeans saved. Exited the save_model method of the Model_Finder class
+2020-05-27/22:53:56		succesfully created 2clusters. Exited the create_clusters method of the KMeansClustering class
+2020-05-27/22:53:57		Entered the get_best_model method of the Model_Finder class
+2020-05-27/22:53:57		Entered the get_best_params_for_xgboost method of the Model_Finder class
+2020-05-27/22:54:10		XGBoost model train method done of the Model_Finder class
+2020-05-27/22:54:10		Entered the lgb_classifier class
+2020-05-27/22:54:12		LGBoost model train method done of the Model_Finder class
+2020-05-27/22:54:12		Entered the get_best_params_for_xgboost method of the Model_Finder class
+2020-05-27/22:56:12		CatBoost model train method done of the Model_Finder class
+2020-05-27/22:56:12		Entered the save_model method of the File_Operation class
+2020-05-27/22:56:12		Model File CatBoost0 saved. Exited the save_model method of the Model_Finder class
+2020-05-27/22:56:13		Entered the get_best_model method of the Model_Finder class
+2020-05-27/22:56:13		Entered the get_best_params_for_xgboost method of the Model_Finder class
+2020-05-27/22:56:13		XGBoost model train method done of the Model_Finder class
+2020-05-27/22:56:13		Entered the lgb_classifier class
+2020-05-27/22:56:13		LGBoost model train method done of the Model_Finder class
+2020-05-27/22:56:13		Entered the get_best_params_for_xgboost method of the Model_Finder class
+2020-05-27/22:56:29		CatBoost model train method done of the Model_Finder class
+2020-05-27/22:56:29		Entered the save_model method of the File_Operation class
+2020-05-27/22:56:29		Model File CatBoost1 saved. Exited the save_model method of the Model_Finder class
+2020-05-27/22:56:29		Successful End of Training
+2020-05-27/23:40:43		Start of Training
+2020-05-27/23:40:43		Entered the get_data method of the Data_Getter class
+2020-05-27/23:40:44		Data Load Successful.Exited the get_data method of the Data_Getter class
+2020-05-27/23:40:44		Entered the separate_label_feature method of the Preprocessor class
+2020-05-27/23:40:44		Label Separation Successful. Exited the separate_label_feature method of the Preprocessor class
+2020-05-27/23:40:48		Entered the is_null_present method of the Preprocessor class
+2020-05-27/23:40:48		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2020-05-27/23:40:48		Entered the elbow_plot method of the KMeansClustering class
+2020-05-27/23:41:00		The optimum number of clusters is: 2 . Exited the elbow_plot method of the KMeansClustering class
+2020-05-27/23:41:00		Entered the create_clusters method of the KMeansClustering class
+2020-05-27/23:41:00		Entered the save_model method of the File_Operation class
+2020-05-27/23:41:00		Model File KMeans saved. Exited the save_model method of the Model_Finder class
+2020-05-27/23:41:00		succesfully created 2clusters. Exited the create_clusters method of the KMeansClustering class
+2020-05-27/23:41:01		Entered the get_best_model method of the Model_Finder class
+2020-05-27/23:41:01		Entered the get_best_params_for_xgboost method of the Model_Finder class
+2020-05-27/23:41:08		XGBoost model train method done of the Model_Finder class
+2020-05-27/23:41:08		Entered the lgb_classifier class
+2020-05-27/23:41:09		LGBoost model train method done of the Model_Finder class
+2020-05-27/23:41:09		Entered the get_best_params_for_xgboost method of the Model_Finder class
+2020-05-27/23:43:21		CatBoost model train method done of the Model_Finder class
+2020-05-27/23:43:49		Entered the save_model method of the File_Operation class
+2020-05-27/23:43:49		Model File CatBoost0 saved. Exited the save_model method of the Model_Finder class
+2020-05-27/23:45:59		Entered the get_best_model method of the Model_Finder class
+2020-05-27/23:45:59		Entered the get_best_params_for_xgboost method of the Model_Finder class
+2020-05-27/23:45:59		XGBoost model train method done of the Model_Finder class
+2020-05-27/23:45:59		Entered the lgb_classifier class
+2020-05-27/23:45:59		LGBoost model train method done of the Model_Finder class
+2020-05-27/23:45:59		Entered the get_best_params_for_xgboost method of the Model_Finder class
+2020-05-27/23:46:20		CatBoost model train method done of the Model_Finder class
+2020-05-27/23:46:59		Entered the save_model method of the File_Operation class
+2020-05-27/23:46:59		Model File XGBoost1 saved. Exited the save_model method of the Model_Finder class
+2020-05-27/23:47:02		Successful End of Training
+2020-05-28/00:01:17		Start of Training
+2020-05-28/00:01:17		Entered the get_data method of the Data_Getter class
+2020-05-28/00:01:18		Data Load Successful.Exited the get_data method of the Data_Getter class
+2020-05-28/00:01:18		Entered the separate_label_feature method of the Preprocessor class
+2020-05-28/00:01:18		Label Separation Successful. Exited the separate_label_feature method of the Preprocessor class
+2020-05-28/00:01:22		Entered the is_null_present method of the Preprocessor class
+2020-05-28/00:01:22		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2020-05-28/00:01:22		Entered the elbow_plot method of the KMeansClustering class
+2020-05-28/00:01:34		The optimum number of clusters is: 2 . Exited the elbow_plot method of the KMeansClustering class
+2020-05-28/00:01:34		Entered the create_clusters method of the KMeansClustering class
+2020-05-28/00:01:34		Entered the save_model method of the File_Operation class
+2020-05-28/00:01:35		Model File KMeans saved. Exited the save_model method of the Model_Finder class
+2020-05-28/00:01:35		succesfully created 2clusters. Exited the create_clusters method of the KMeansClustering class
+2020-05-28/00:01:35		Entered the get_best_model method of the Model_Finder class
+2020-05-28/00:01:35		Entered the get_best_params_for_xgboost method of the Model_Finder class
+2020-05-28/00:01:42		XGBoost model train method done of the Model_Finder class
+2020-05-28/00:01:42		Entered the lgb_classifier class
+2020-05-28/00:01:43		LGBoost model train method done of the Model_Finder class
+2020-05-28/00:01:44		Entered the get_best_params_for_xgboost method of the Model_Finder class
+2020-05-28/00:03:30		CatBoost model train method done of the Model_Finder class
+2020-05-28/00:03:30		Entered the save_model method of the File_Operation class
+2020-05-28/00:03:30		Model File CatBoost0 saved. Exited the save_model method of the Model_Finder class
+2020-05-28/00:03:30		Entered the get_best_model method of the Model_Finder class
+2020-05-28/00:03:30		Entered the get_best_params_for_xgboost method of the Model_Finder class
+2020-05-28/00:03:30		XGBoost model train method done of the Model_Finder class
+2020-05-28/00:03:30		Entered the lgb_classifier class
+2020-05-28/00:03:31		LGBoost model train method done of the Model_Finder class
+2020-05-28/00:03:31		Entered the get_best_params_for_xgboost method of the Model_Finder class
+2020-05-28/00:03:50		CatBoost model train method done of the Model_Finder class
+2020-05-28/00:03:50		Entered the save_model method of the File_Operation class
+2020-05-28/00:03:50		Model File CatBoost1 saved. Exited the save_model method of the Model_Finder class
+2020-05-28/00:03:50		Successful End of Training
+2020-05-28/00:41:19		Start of Training
+2020-05-28/00:41:19		Entered the get_data method of the Data_Getter class
+2020-05-28/00:41:20		Data Load Successful.Exited the get_data method of the Data_Getter class
+2020-05-28/00:41:20		Entered the separate_label_feature method of the Preprocessor class
+2020-05-28/00:41:20		Label Separation Successful. Exited the separate_label_feature method of the Preprocessor class
+2020-05-28/00:41:23		Entered the is_null_present method of the Preprocessor class
+2020-05-28/00:41:23		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2020-05-28/00:41:23		Unsuccessful End of Training
+2020-05-28/00:41:53		Start of Training
+2020-05-28/00:41:53		Entered the get_data method of the Data_Getter class
+2020-05-28/00:41:54		Data Load Successful.Exited the get_data method of the Data_Getter class
+2020-05-28/00:41:54		Entered the separate_label_feature method of the Preprocessor class
+2020-05-28/00:41:54		Label Separation Successful. Exited the separate_label_feature method of the Preprocessor class
+2020-05-28/00:41:58		Entered the is_null_present method of the Preprocessor class
+2020-05-28/00:41:58		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2020-05-28/00:41:58		Unsuccessful End of Training
+2020-05-28/00:47:42		Start of Training
+2020-05-28/00:47:42		Entered the get_data method of the Data_Getter class
+2020-05-28/00:47:42		Data Load Successful.Exited the get_data method of the Data_Getter class
+2020-05-28/00:47:42		Entered the separate_label_feature method of the Preprocessor class
+2020-05-28/00:47:42		Label Separation Successful. Exited the separate_label_feature method of the Preprocessor class
+2020-05-28/00:47:42		Unsuccessful End of Training
+2020-05-28/00:50:19		Start of Training
+2020-05-28/00:50:19		Entered the get_data method of the Data_Getter class
+2020-05-28/00:50:19		Data Load Successful.Exited the get_data method of the Data_Getter class
+2020-05-28/00:50:19		Entered the separate_label_feature method of the Preprocessor class
+2020-05-28/00:50:19		Label Separation Successful. Exited the separate_label_feature method of the Preprocessor class
+2020-05-28/00:50:20		Unsuccessful End of Training
+2020-05-28/01:05:52		Start of Training
+2020-05-28/01:05:52		Entered the get_data method of the Data_Getter class
+2020-05-28/01:05:52		Data Load Successful.Exited the get_data method of the Data_Getter class
+2020-05-28/01:05:52		Entered the separate_label_feature method of the Preprocessor class
+2020-05-28/01:05:52		Label Separation Successful. Exited the separate_label_feature method of the Preprocessor class
+2020-05-28/01:06:00		Entered the is_null_present method of the Preprocessor class
+2020-05-28/01:06:00		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2020-05-28/01:06:19		Entered the elbow_plot method of the KMeansClustering class
+2020-05-28/01:06:30		The optimum number of clusters is: 2 . Exited the elbow_plot method of the KMeansClustering class
+2020-05-28/01:06:33		Entered the create_clusters method of the KMeansClustering class
+2020-05-28/01:06:33		Entered the save_model method of the File_Operation class
+2020-05-28/01:06:33		Model File KMeans saved. Exited the save_model method of the Model_Finder class
+2020-05-28/01:06:33		succesfully created 2clusters. Exited the create_clusters method of the KMeansClustering class
+2020-05-28/01:06:43		Entered the get_best_model method of the Model_Finder class
+2020-05-28/01:06:43		Entered the get_best_params_for_xgboost method of the Model_Finder class
+2020-05-28/01:06:51		XGBoost model train method done of the Model_Finder class
+2020-05-28/01:06:51		Entered the lgb_classifier class
+2020-05-28/01:06:53		LGBoost model train method done of the Model_Finder class
+2020-05-28/01:06:53		Entered the get_best_params_for_xgboost method of the Model_Finder class
+2020-05-28/01:08:20		CatBoost model train method done of the Model_Finder class
+2020-05-28/01:08:35		Entered the save_model method of the File_Operation class
+2020-05-28/01:08:35		Model File CatBoost0 saved. Exited the save_model method of the Model_Finder class
+2020-05-28/01:08:42		Entered the get_best_model method of the Model_Finder class
+2020-05-28/01:08:42		Entered the get_best_params_for_xgboost method of the Model_Finder class
+2020-05-28/01:08:42		XGBoost model train method done of the Model_Finder class
+2020-05-28/01:08:42		Entered the lgb_classifier class
+2020-05-28/01:08:42		LGBoost model train method done of the Model_Finder class
+2020-05-28/01:08:43		Entered the get_best_params_for_xgboost method of the Model_Finder class
+2020-05-28/01:08:56		CatBoost model train method done of the Model_Finder class
+2020-05-28/01:09:08		Entered the save_model method of the File_Operation class
+2020-05-28/01:09:08		Model File CatBoost1 saved. Exited the save_model method of the Model_Finder class
+2020-05-28/01:09:09		Successful End of Training
+2020-05-28/21:20:04		Start of Training
+2020-05-28/21:20:04		Entered the get_data method of the Data_Getter class
+2020-05-28/21:20:05		Data Load Successful.Exited the get_data method of the Data_Getter class
+2020-05-28/21:20:05		Entered the separate_label_feature method of the Preprocessor class
+2020-05-28/21:20:05		Label Separation Successful. Exited the separate_label_feature method of the Preprocessor class
+2020-05-28/21:20:11		Entered the is_null_present method of the Preprocessor class
+2020-05-28/21:20:12		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2020-05-28/21:20:12		Entered the elbow_plot method of the KMeansClustering class
+2020-05-28/21:20:26		The optimum number of clusters is: 2 . Exited the elbow_plot method of the KMeansClustering class
+2020-05-28/21:20:26		Entered the create_clusters method of the KMeansClustering class
+2020-05-28/21:20:27		Entered the save_model method of the File_Operation class
+2020-05-28/21:20:27		Model File KMeans saved. Exited the save_model method of the Model_Finder class
+2020-05-28/21:20:27		succesfully created 2clusters. Exited the create_clusters method of the KMeansClustering class
+2020-05-28/21:20:27		Entered the get_best_model method of the Model_Finder class
+2020-05-28/21:20:27		Entered the get_best_params_for_xgboost method of the Model_Finder class
+2020-05-28/21:20:40		XGBoost model train method done of the Model_Finder class
+2020-05-28/21:20:41		Entered the lgb_classifier class
+2020-05-28/21:20:42		LGBoost model train method done of the Model_Finder class
+2020-05-28/21:20:43		Entered the get_best_params_for_xgboost method of the Model_Finder class
+2020-05-28/21:23:04		CatBoost model train method done of the Model_Finder class
+2020-05-28/21:23:04		Entered the save_model method of the File_Operation class
+2020-05-28/21:23:04		Model File CatBoost0 saved. Exited the save_model method of the Model_Finder class
+2020-05-28/21:23:04		Entered the get_best_model method of the Model_Finder class
+2020-05-28/21:23:04		Entered the get_best_params_for_xgboost method of the Model_Finder class
+2020-05-28/21:23:04		XGBoost model train method done of the Model_Finder class
+2020-05-28/21:23:04		Entered the lgb_classifier class
+2020-05-28/21:23:05		LGBoost model train method done of the Model_Finder class
+2020-05-28/21:23:05		Entered the get_best_params_for_xgboost method of the Model_Finder class
+2020-05-28/21:23:26		CatBoost model train method done of the Model_Finder class
+2020-05-28/21:23:27		Entered the save_model method of the File_Operation class
+2020-05-28/21:23:27		Model File XGBoost1 saved. Exited the save_model method of the Model_Finder class
+2020-05-28/21:23:27		Successful End of Training
+2020-06-02/00:30:46		Start of Training
+2020-06-02/00:30:46		Entered the get_data method of the Data_Getter class
+2020-06-02/00:30:46		Data Load Successful.Exited the get_data method of the Data_Getter class
+2020-06-02/00:30:46		Entered the separate_label_feature method of the Preprocessor class
+2020-06-02/00:30:46		Label Separation Successful. Exited the separate_label_feature method of the Preprocessor class
+2020-06-02/00:30:48		Entered the is_null_present method of the Preprocessor class
+2020-06-02/00:30:48		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2020-06-02/00:30:48		Entered the elbow_plot method of the KMeansClustering class
+2020-06-02/00:31:04		The optimum number of clusters is: 2 . Exited the elbow_plot method of the KMeansClustering class
+2020-06-02/00:31:04		Entered the create_clusters method of the KMeansClustering class
+2020-06-02/00:31:05		Entered the save_model method of the File_Operation class
+2020-06-02/00:31:05		Model File KMeans saved. Exited the save_model method of the Model_Finder class
+2020-06-02/00:31:05		succesfully created 2clusters. Exited the create_clusters method of the KMeansClustering class
+2020-06-02/00:31:05		Unsuccessful End of Training
+2020-06-02/01:38:50		Start of Training
+2020-06-02/01:38:50		Entered the get_data method of the Data_Getter class
+2020-06-02/01:38:51		Data Load Successful.Exited the get_data method of the Data_Getter class
+2020-06-02/01:38:51		Entered the separate_label_feature method of the Preprocessor class
+2020-06-02/01:38:51		Label Separation Successful. Exited the separate_label_feature method of the Preprocessor class
+2020-06-02/01:38:53		Entered the is_null_present method of the Preprocessor class
+2020-06-02/01:38:53		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2020-06-02/01:38:53		Entered the elbow_plot method of the KMeansClustering class
+2020-06-02/01:39:11		The optimum number of clusters is: 2 . Exited the elbow_plot method of the KMeansClustering class
+2020-06-02/01:39:11		Entered the create_clusters method of the KMeansClustering class
+2020-06-02/01:39:12		Entered the save_model method of the File_Operation class
+2020-06-02/01:39:12		Model File KMeans saved. Exited the save_model method of the Model_Finder class
+2020-06-02/01:39:12		succesfully created 2clusters. Exited the create_clusters method of the KMeansClustering class
+2020-06-02/01:39:12		Entered the get_best_model method of the Model_Finder class
+2020-06-02/01:39:12		Entered the get_best_params_for_xgboost method of the Model_Finder class
+2020-06-02/01:39:24		XGBoost model train method done of the Model_Finder class
+2020-06-02/01:39:26		Entered the lgb_classifier class
+2020-06-02/01:39:28		LGBoost model train method done of the Model_Finder class
+2020-06-02/01:39:30		Entered the get_best_params_for_xgboost method of the Model_Finder class
+2020-06-02/01:41:42		CatBoost model train method done of the Model_Finder class
+2020-06-02/01:41:43		Entered the save_model method of the File_Operation class
+2020-06-02/01:41:43		Model File CatBoost0 saved. Exited the save_model method of the Model_Finder class
+2020-06-02/01:41:44		Entered the get_best_model method of the Model_Finder class
+2020-06-02/01:41:44		Entered the get_best_params_for_xgboost method of the Model_Finder class
+2020-06-02/01:41:44		XGBoost model train method done of the Model_Finder class
+2020-06-02/01:41:45		Entered the lgb_classifier class
+2020-06-02/01:41:46		LGBoost model train method done of the Model_Finder class
+2020-06-02/01:41:47		Entered the get_best_params_for_xgboost method of the Model_Finder class
+2020-06-02/01:42:04		CatBoost model train method done of the Model_Finder class
+2020-06-02/01:42:05		Entered the save_model method of the File_Operation class
+2020-06-02/01:42:05		Model File LGBoost1 saved. Exited the save_model method of the Model_Finder class
+2020-06-02/01:42:05		Successful End of Training
+2020-06-13/17:30:55		Start of Training
+2020-06-13/17:30:55		Entered the get_data method of the Data_Getter class
+2020-06-13/17:30:55		Data Load Successful.Exited the get_data method of the Data_Getter class
+2020-06-13/17:30:55		Entered the separate_label_feature method of the Preprocessor class
+2020-06-13/17:30:55		Label Separation Successful. Exited the separate_label_feature method of the Preprocessor class
+2020-06-13/17:31:15		Entered the is_null_present method of the Preprocessor class
+2020-06-13/17:31:15		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2020-06-13/17:31:15		Entered the elbow_plot method of the KMeansClustering class
+2020-06-13/17:31:32		The optimum number of clusters is: 2 . Exited the elbow_plot method of the KMeansClustering class
+2020-06-13/17:31:32		Entered the create_clusters method of the KMeansClustering class
+2020-06-13/17:31:32		Entered the save_model method of the File_Operation class
+2020-06-13/17:31:32		Model File KMeans saved. Exited the save_model method of the Model_Finder class
+2020-06-13/17:31:32		succesfully created 2clusters. Exited the create_clusters method of the KMeansClustering class
+2020-06-13/17:31:58		Entered the get_best_model method of the Model_Finder class
+2020-06-13/17:31:58		Entered the get_best_params_for_xgboost method of the Model_Finder class
+2020-06-13/17:32:10		XGBoost model train method done of the Model_Finder class
+2020-06-13/17:32:12		Entered the lgb_classifier class
+2020-06-13/17:32:14		LGBoost model train method done of the Model_Finder class
+2020-06-13/17:32:16		Entered the get_best_params_for_xgboost method of the Model_Finder class
+2020-06-13/17:34:42		CatBoost model train method done of the Model_Finder class
+2020-06-13/17:34:59		Entered the save_model method of the File_Operation class
+2020-06-13/17:34:59		Model File CatBoost0 saved. Exited the save_model method of the Model_Finder class
+2020-06-13/17:34:59		Entered the get_best_model method of the Model_Finder class
+2020-06-13/17:34:59		Entered the get_best_params_for_xgboost method of the Model_Finder class
+2020-06-13/17:35:00		XGBoost model train method done of the Model_Finder class
+2020-06-13/17:35:01		Entered the lgb_classifier class
+2020-06-13/17:35:02		LGBoost model train method done of the Model_Finder class
+2020-06-13/17:35:04		Entered the get_best_params_for_xgboost method of the Model_Finder class
+2020-06-13/17:35:35		CatBoost model train method done of the Model_Finder class
+2020-06-13/17:36:14		Entered the save_model method of the File_Operation class
+2020-06-13/17:36:14		Model File CatBoost1 saved. Exited the save_model method of the Model_Finder class
+2020-06-13/17:36:17		Successful End of Training

@@ -1,0 +1,306 @@
+2020-05-27/01:30:56		Start of Validation on files for prediction!!
+2020-05-27/01:30:56		Raw Data Validation Complete!!
+2020-05-27/01:30:56		Starting Data Transforamtion!!
+2020-05-27/01:30:56		DataTransformation Completed!!!
+2020-05-27/01:30:56		Creating Prediction_Database and tables on the basis of given schema!!!
+2020-05-27/01:31:03		Table creation Completed!!
+2020-05-27/01:31:03		Insertion of Data into Table started!!!!
+2020-05-27/01:33:15		Insertion in Table completed!!!
+2020-05-27/01:37:50		Deleting Good Data Folder!!!
+2020-05-27/01:37:53		Good_Data folder deleted!!!
+2020-05-27/01:38:40		Moving bad files to Archive and deleting Bad_Data folder!!!
+2020-05-27/01:38:40		Bad files moved to archive!! Bad folder Deleted!!
+2020-05-27/01:38:40		Validation Operation completed!!
+2020-05-27/01:38:40		Extracting csv file from table
+2020-05-27/01:38:57		Start of Validation on files for prediction!!
+2020-05-27/01:38:57		Raw Data Validation Complete!!
+2020-05-27/01:38:57		Starting Data Transforamtion!!
+2020-05-27/01:38:57		DataTransformation Completed!!!
+2020-05-27/01:38:57		Creating Prediction_Database and tables on the basis of given schema!!!
+2020-05-27/01:38:59		Table creation Completed!!
+2020-05-27/01:38:59		Insertion of Data into Table started!!!!
+2020-05-27/01:39:04		Insertion in Table completed!!!
+2020-05-27/01:39:04		Deleting Good Data Folder!!!
+2020-05-27/01:39:04		Good_Data folder deleted!!!
+2020-05-27/01:39:08		Moving bad files to Archive and deleting Bad_Data folder!!!
+2020-05-27/01:39:58		Bad files moved to archive!! Bad folder Deleted!!
+2020-05-27/01:39:59		Validation Operation completed!!
+2020-05-27/01:39:59		Extracting csv file from table
+2020-05-27/16:12:47		Start of Prediction
+2020-05-27/16:12:47		Entered the get_data method of the Data_Getter class
+2020-05-27/16:12:47		Data Load Successful.Exited the get_data method of the Data_Getter class
+2020-05-27/16:17:30		Entered the is_null_present method of the Preprocessor class
+2020-05-27/16:17:30		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2020-05-27/16:17:39		Entered the impute_missing_values method of the Preprocessor class
+2020-05-27/16:17:39		Exception occured in impute_missing_values method of the Preprocessor class. Exception message:  could not convert string to float: "'blue-collar'"
+2020-05-27/16:17:39		Imputing missing values failed. Exited the impute_missing_values method of the Preprocessor class
+2020-05-27/16:17:42		Error occured while running the prediction!! Error:: 
+2020-05-27/22:56:29		Start of Validation on files for prediction!!
+2020-05-27/22:56:29		Raw Data Validation Complete!!
+2020-05-27/22:56:29		Starting Data Transforamtion!!
+2020-05-27/22:56:30		DataTransformation Completed!!!
+2020-05-27/22:56:30		Creating Prediction_Database and tables on the basis of given schema!!!
+2020-05-27/22:56:32		Table creation Completed!!
+2020-05-27/22:56:32		Insertion of Data into Table started!!!!
+2020-05-27/22:56:33		Insertion in Table completed!!!
+2020-05-27/22:56:33		Deleting Good Data Folder!!!
+2020-05-27/22:56:33		Good_Data folder deleted!!!
+2020-05-27/22:56:33		Moving bad files to Archive and deleting Bad_Data folder!!!
+2020-05-27/22:56:33		Bad files moved to archive!! Bad folder Deleted!!
+2020-05-27/22:56:33		Validation Operation completed!!
+2020-05-27/22:56:33		Extracting csv file from table
+2020-05-28/01:09:57		Start of Validation on files for prediction!!
+2020-05-28/01:09:57		Raw Data Validation Complete!!
+2020-05-28/01:09:57		Starting Data Transforamtion!!
+2020-05-28/01:09:57		DataTransformation Completed!!!
+2020-05-28/01:09:57		Creating Prediction_Database and tables on the basis of given schema!!!
+2020-05-28/01:09:58		Table creation Completed!!
+2020-05-28/01:09:58		Insertion of Data into Table started!!!!
+2020-05-28/01:09:59		Insertion in Table completed!!!
+2020-05-28/01:09:59		Deleting Good Data Folder!!!
+2020-05-28/01:09:59		Good_Data folder deleted!!!
+2020-05-28/01:09:59		Moving bad files to Archive and deleting Bad_Data folder!!!
+2020-05-28/01:09:59		Bad files moved to archive!! Bad folder Deleted!!
+2020-05-28/01:09:59		Validation Operation completed!!
+2020-05-28/01:09:59		Extracting csv file from table
+2020-05-28/01:25:35		Start of Validation on files for prediction!!
+2020-05-28/01:25:35		Raw Data Validation Complete!!
+2020-05-28/01:25:35		Starting Data Transforamtion!!
+2020-05-28/01:25:35		DataTransformation Completed!!!
+2020-05-28/01:25:35		Creating Prediction_Database and tables on the basis of given schema!!!
+2020-05-28/01:25:37		Table creation Completed!!
+2020-05-28/01:25:37		Insertion of Data into Table started!!!!
+2020-05-28/01:25:37		Insertion in Table completed!!!
+2020-05-28/01:25:37		Deleting Good Data Folder!!!
+2020-05-28/01:25:37		Good_Data folder deleted!!!
+2020-05-28/01:25:37		Moving bad files to Archive and deleting Bad_Data folder!!!
+2020-05-28/01:25:37		Bad files moved to archive!! Bad folder Deleted!!
+2020-05-28/01:25:37		Validation Operation completed!!
+2020-05-28/01:25:37		Extracting csv file from table
+2020-05-28/01:25:38		Start of Prediction
+2020-05-28/01:25:38		Entered the get_data method of the Data_Getter class
+2020-05-28/01:25:38		Data Load Successful.Exited the get_data method of the Data_Getter class
+2020-05-28/01:25:38		Entered the is_null_present method of the Preprocessor class
+2020-05-28/01:25:38		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2020-05-28/01:25:38		Entered the load_model method of the File_Operation class
+2020-05-28/01:25:38		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2020-05-28/01:25:55		Entered the find_correct_model_file method of the File_Operation class
+2020-05-28/01:25:55		Exited the find_correct_model_file method of the Model_Finder class.
+2020-05-28/01:25:58		Entered the load_model method of the File_Operation class
+2020-05-28/01:25:58		Model File CatBoost0 loaded. Exited the load_model method of the Model_Finder class
+2020-05-28/01:26:20		Entered the find_correct_model_file method of the File_Operation class
+2020-05-28/01:26:20		Exited the find_correct_model_file method of the Model_Finder class.
+2020-05-28/01:26:20		Entered the load_model method of the File_Operation class
+2020-05-28/01:26:20		Model File CatBoost1 loaded. Exited the load_model method of the Model_Finder class
+2020-05-28/01:26:51		End of Prediction
+2020-05-28/01:30:21		Start of Validation on files for prediction!!
+2020-05-28/01:30:22		Raw Data Validation Complete!!
+2020-05-28/01:30:22		Starting Data Transforamtion!!
+2020-05-28/01:30:22		DataTransformation Completed!!!
+2020-05-28/01:30:22		Creating Prediction_Database and tables on the basis of given schema!!!
+2020-05-28/01:30:23		Table creation Completed!!
+2020-05-28/01:30:23		Insertion of Data into Table started!!!!
+2020-05-28/01:30:24		Insertion in Table completed!!!
+2020-05-28/01:30:24		Deleting Good Data Folder!!!
+2020-05-28/01:30:24		Good_Data folder deleted!!!
+2020-05-28/01:30:24		Moving bad files to Archive and deleting Bad_Data folder!!!
+2020-05-28/01:30:24		Bad files moved to archive!! Bad folder Deleted!!
+2020-05-28/01:30:24		Validation Operation completed!!
+2020-05-28/01:30:24		Extracting csv file from table
+2020-05-28/01:30:24		Start of Prediction
+2020-05-28/01:30:24		Entered the get_data method of the Data_Getter class
+2020-05-28/01:30:24		Data Load Successful.Exited the get_data method of the Data_Getter class
+2020-05-28/01:30:24		Entered the is_null_present method of the Preprocessor class
+2020-05-28/01:30:24		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2020-05-28/01:30:24		Entered the load_model method of the File_Operation class
+2020-05-28/01:30:24		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2020-05-28/01:30:24		Entered the find_correct_model_file method of the File_Operation class
+2020-05-28/01:30:24		Exited the find_correct_model_file method of the Model_Finder class.
+2020-05-28/01:30:24		Entered the load_model method of the File_Operation class
+2020-05-28/01:30:24		Model File CatBoost0 loaded. Exited the load_model method of the Model_Finder class
+2020-05-28/01:30:24		Entered the find_correct_model_file method of the File_Operation class
+2020-05-28/01:30:24		Exited the find_correct_model_file method of the Model_Finder class.
+2020-05-28/01:30:24		Entered the load_model method of the File_Operation class
+2020-05-28/01:30:24		Model File CatBoost1 loaded. Exited the load_model method of the Model_Finder class
+2020-05-28/01:31:14		End of Prediction
+2020-05-28/16:50:28		Start of Validation on files for prediction!!
+2020-05-28/16:51:30		Raw Data Validation Complete!!
+2020-05-28/16:51:30		Starting Data Transforamtion!!
+2020-05-28/16:51:30		DataTransformation Completed!!!
+2020-05-28/16:51:30		Creating Prediction_Database and tables on the basis of given schema!!!
+2020-05-28/16:51:32		Table creation Completed!!
+2020-05-28/16:51:32		Insertion of Data into Table started!!!!
+2020-05-28/16:51:33		Insertion in Table completed!!!
+2020-05-28/16:51:33		Deleting Good Data Folder!!!
+2020-05-28/16:51:33		Good_Data folder deleted!!!
+2020-05-28/16:51:33		Moving bad files to Archive and deleting Bad_Data folder!!!
+2020-05-28/16:51:33		Bad files moved to archive!! Bad folder Deleted!!
+2020-05-28/16:51:33		Validation Operation completed!!
+2020-05-28/16:51:33		Extracting csv file from table
+2020-05-28/16:51:33		Start of Prediction
+2020-05-28/16:51:33		Entered the get_data method of the Data_Getter class
+2020-05-28/16:51:33		Data Load Successful.Exited the get_data method of the Data_Getter class
+2020-05-28/16:51:33		Entered the is_null_present method of the Preprocessor class
+2020-05-28/16:51:33		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2020-05-28/16:51:33		Entered the load_model method of the File_Operation class
+2020-05-28/16:51:33		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2020-05-28/16:51:33		Entered the find_correct_model_file method of the File_Operation class
+2020-05-28/16:51:33		Exited the find_correct_model_file method of the Model_Finder class.
+2020-05-28/16:51:33		Entered the load_model method of the File_Operation class
+2020-05-28/16:51:34		Model File CatBoost0 loaded. Exited the load_model method of the Model_Finder class
+2020-05-28/16:51:34		Entered the find_correct_model_file method of the File_Operation class
+2020-05-28/16:51:34		Exited the find_correct_model_file method of the Model_Finder class.
+2020-05-28/16:51:34		Entered the load_model method of the File_Operation class
+2020-05-28/16:51:34		Model File CatBoost1 loaded. Exited the load_model method of the Model_Finder class
+2020-05-28/16:51:34		End of Prediction
+2020-05-28/20:48:57		Start of Validation on files for prediction!!
+2020-05-28/20:48:57		Raw Data Validation Complete!!
+2020-05-28/20:48:57		Starting Data Transforamtion!!
+2020-05-28/20:48:58		DataTransformation Completed!!!
+2020-05-28/20:48:58		Creating Prediction_Database and tables on the basis of given schema!!!
+2020-05-28/20:48:59		Table creation Completed!!
+2020-05-28/20:48:59		Insertion of Data into Table started!!!!
+2020-05-28/20:49:00		Insertion in Table completed!!!
+2020-05-28/20:49:00		Deleting Good Data Folder!!!
+2020-05-28/20:49:00		Good_Data folder deleted!!!
+2020-05-28/20:49:00		Moving bad files to Archive and deleting Bad_Data folder!!!
+2020-05-28/20:49:00		Bad files moved to archive!! Bad folder Deleted!!
+2020-05-28/20:49:00		Validation Operation completed!!
+2020-05-28/20:49:00		Extracting csv file from table
+2020-05-28/20:49:00		Start of Prediction
+2020-05-28/20:49:00		Entered the get_data method of the Data_Getter class
+2020-05-28/20:49:00		Data Load Successful.Exited the get_data method of the Data_Getter class
+2020-05-28/20:49:01		Entered the is_null_present method of the Preprocessor class
+2020-05-28/20:49:01		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2020-05-28/20:49:01		Entered the load_model method of the File_Operation class
+2020-05-28/20:49:01		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2020-05-28/20:49:01		Entered the find_correct_model_file method of the File_Operation class
+2020-05-28/20:49:01		Exited the find_correct_model_file method of the Model_Finder class.
+2020-05-28/20:49:01		Entered the load_model method of the File_Operation class
+2020-05-28/20:49:01		Model File CatBoost0 loaded. Exited the load_model method of the Model_Finder class
+2020-05-28/20:49:01		Entered the find_correct_model_file method of the File_Operation class
+2020-05-28/20:49:01		Exited the find_correct_model_file method of the Model_Finder class.
+2020-05-28/20:49:01		Entered the load_model method of the File_Operation class
+2020-05-28/20:49:01		Model File CatBoost1 loaded. Exited the load_model method of the Model_Finder class
+2020-05-28/20:49:02		End of Prediction
+2020-05-28/21:10:46		Start of Validation on files for prediction!!
+2020-05-28/21:10:47		Raw Data Validation Complete!!
+2020-05-28/21:10:47		Starting Data Transforamtion!!
+2020-05-28/21:10:47		DataTransformation Completed!!!
+2020-05-28/21:10:47		Creating Prediction_Database and tables on the basis of given schema!!!
+2020-05-28/21:10:48		Table creation Completed!!
+2020-05-28/21:10:48		Insertion of Data into Table started!!!!
+2020-05-28/21:10:49		Insertion in Table completed!!!
+2020-05-28/21:10:49		Deleting Good Data Folder!!!
+2020-05-28/21:10:49		Good_Data folder deleted!!!
+2020-05-28/21:10:49		Moving bad files to Archive and deleting Bad_Data folder!!!
+2020-05-28/21:10:49		Bad files moved to archive!! Bad folder Deleted!!
+2020-05-28/21:10:49		Validation Operation completed!!
+2020-05-28/21:10:49		Extracting csv file from table
+2020-05-28/21:10:49		Start of Prediction
+2020-05-28/21:10:49		Entered the get_data method of the Data_Getter class
+2020-05-28/21:10:49		Data Load Successful.Exited the get_data method of the Data_Getter class
+2020-05-28/21:10:49		Entered the is_null_present method of the Preprocessor class
+2020-05-28/21:10:49		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2020-05-28/21:10:49		Entered the load_model method of the File_Operation class
+2020-05-28/21:10:49		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2020-05-28/21:10:50		Entered the find_correct_model_file method of the File_Operation class
+2020-05-28/21:10:50		Exited the find_correct_model_file method of the Model_Finder class.
+2020-05-28/21:10:50		Entered the load_model method of the File_Operation class
+2020-05-28/21:10:50		Model File CatBoost0 loaded. Exited the load_model method of the Model_Finder class
+2020-05-28/21:10:50		Entered the find_correct_model_file method of the File_Operation class
+2020-05-28/21:10:50		Exited the find_correct_model_file method of the Model_Finder class.
+2020-05-28/21:10:50		Entered the load_model method of the File_Operation class
+2020-05-28/21:10:50		Model File CatBoost1 loaded. Exited the load_model method of the Model_Finder class
+2020-05-28/21:10:50		End of Prediction
+2020-06-02/01:46:25		Start of Validation on files for prediction!!
+2020-06-02/01:46:25		Raw Data Validation Complete!!
+2020-06-02/01:46:25		Starting Data Transforamtion!!
+2020-06-02/01:46:25		DataTransformation Completed!!!
+2020-06-02/01:46:25		Creating Prediction_Database and tables on the basis of given schema!!!
+2020-06-02/01:46:26		Table creation Completed!!
+2020-06-02/01:46:26		Insertion of Data into Table started!!!!
+2020-06-02/01:46:27		Insertion in Table completed!!!
+2020-06-02/01:46:27		Deleting Good Data Folder!!!
+2020-06-02/01:46:27		Good_Data folder deleted!!!
+2020-06-02/01:46:27		Moving bad files to Archive and deleting Bad_Data folder!!!
+2020-06-02/01:46:27		Bad files moved to archive!! Bad folder Deleted!!
+2020-06-02/01:46:27		Validation Operation completed!!
+2020-06-02/01:46:27		Extracting csv file from table
+2020-06-02/01:46:27		Start of Prediction
+2020-06-02/01:46:27		Entered the get_data method of the Data_Getter class
+2020-06-02/01:46:27		Data Load Successful.Exited the get_data method of the Data_Getter class
+2020-06-02/01:46:27		Entered the is_null_present method of the Preprocessor class
+2020-06-02/01:46:27		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2020-06-02/01:46:27		Entered the load_model method of the File_Operation class
+2020-06-02/01:46:27		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2020-06-02/01:46:28		Entered the find_correct_model_file method of the File_Operation class
+2020-06-02/01:46:28		Exited the find_correct_model_file method of the Model_Finder class.
+2020-06-02/01:46:28		Entered the load_model method of the File_Operation class
+2020-06-02/01:46:28		Model File CatBoost0 loaded. Exited the load_model method of the Model_Finder class
+2020-06-02/01:46:28		Entered the find_correct_model_file method of the File_Operation class
+2020-06-02/01:46:28		Exited the find_correct_model_file method of the Model_Finder class.
+2020-06-02/01:46:28		Entered the load_model method of the File_Operation class
+2020-06-02/01:46:28		Model File LGBoost1 loaded. Exited the load_model method of the Model_Finder class
+2020-06-02/01:46:28		End of Prediction
+2020-06-13/17:47:39		Start of Validation on files for prediction!!
+2020-06-13/17:48:11		Start of Validation on files for prediction!!
+2020-06-13/17:48:12		Raw Data Validation Complete!!
+2020-06-13/17:48:12		Starting Data Transforamtion!!
+2020-06-13/17:48:12		DataTransformation Completed!!!
+2020-06-13/17:48:12		Creating Prediction_Database and tables on the basis of given schema!!!
+2020-06-13/17:48:14		Table creation Completed!!
+2020-06-13/17:48:14		Insertion of Data into Table started!!!!
+2020-06-13/17:48:14		Insertion in Table completed!!!
+2020-06-13/17:48:14		Deleting Good Data Folder!!!
+2020-06-13/17:48:14		Good_Data folder deleted!!!
+2020-06-13/17:48:14		Moving bad files to Archive and deleting Bad_Data folder!!!
+2020-06-13/17:48:14		Bad files moved to archive!! Bad folder Deleted!!
+2020-06-13/17:48:14		Validation Operation completed!!
+2020-06-13/17:48:14		Extracting csv file from table
+2020-06-13/17:48:14		Start of Prediction
+2020-06-13/17:48:14		Entered the get_data method of the Data_Getter class
+2020-06-13/17:48:14		Data Load Successful.Exited the get_data method of the Data_Getter class
+2020-06-13/17:48:56		Entered the is_null_present method of the Preprocessor class
+2020-06-13/17:48:56		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2020-06-13/17:49:00		Entered the load_model method of the File_Operation class
+2020-06-13/17:49:00		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2020-06-13/17:49:17		Entered the find_correct_model_file method of the File_Operation class
+2020-06-13/17:49:17		Exited the find_correct_model_file method of the Model_Finder class.
+2020-06-13/17:49:17		Entered the load_model method of the File_Operation class
+2020-06-13/17:49:17		Model File CatBoost0 loaded. Exited the load_model method of the Model_Finder class
+2020-06-13/17:49:17		Entered the find_correct_model_file method of the File_Operation class
+2020-06-13/17:49:17		Exited the find_correct_model_file method of the Model_Finder class.
+2020-06-13/17:49:17		Entered the load_model method of the File_Operation class
+2020-06-13/17:49:17		Model File CatBoost1 loaded. Exited the load_model method of the Model_Finder class
+2020-06-13/17:49:18		End of Prediction
+2020-06-13/17:56:25		Start of Validation on files for prediction!!
+2020-06-13/17:56:26		Raw Data Validation Complete!!
+2020-06-13/17:56:26		Starting Data Transforamtion!!
+2020-06-13/17:56:26		DataTransformation Completed!!!
+2020-06-13/17:56:26		Creating Prediction_Database and tables on the basis of given schema!!!
+2020-06-13/17:56:27		Table creation Completed!!
+2020-06-13/17:56:27		Insertion of Data into Table started!!!!
+2020-06-13/17:56:27		Insertion in Table completed!!!
+2020-06-13/17:56:27		Deleting Good Data Folder!!!
+2020-06-13/17:56:27		Good_Data folder deleted!!!
+2020-06-13/17:56:27		Moving bad files to Archive and deleting Bad_Data folder!!!
+2020-06-13/17:56:27		Bad files moved to archive!! Bad folder Deleted!!
+2020-06-13/17:56:27		Validation Operation completed!!
+2020-06-13/17:56:27		Extracting csv file from table
+2020-06-13/17:56:27		Start of Prediction
+2020-06-13/17:56:27		Entered the get_data method of the Data_Getter class
+2020-06-13/17:56:27		Data Load Successful.Exited the get_data method of the Data_Getter class
+2020-06-13/17:56:28		Entered the is_null_present method of the Preprocessor class
+2020-06-13/17:56:28		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2020-06-13/17:56:28		Entered the load_model method of the File_Operation class
+2020-06-13/17:56:28		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2020-06-13/17:56:28		Entered the find_correct_model_file method of the File_Operation class
+2020-06-13/17:56:28		Exited the find_correct_model_file method of the Model_Finder class.
+2020-06-13/17:56:28		Entered the load_model method of the File_Operation class
+2020-06-13/17:56:28		Model File CatBoost0 loaded. Exited the load_model method of the Model_Finder class
+2020-06-13/17:56:28		Entered the find_correct_model_file method of the File_Operation class
+2020-06-13/17:56:28		Exited the find_correct_model_file method of the Model_Finder class.
+2020-06-13/17:56:28		Entered the load_model method of the File_Operation class
+2020-06-13/17:56:28		Model File CatBoost1 loaded. Exited the load_model method of the Model_Finder class
+2020-06-13/17:56:28		End of Prediction
