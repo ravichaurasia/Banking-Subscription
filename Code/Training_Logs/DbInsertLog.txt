@@ -1,0 +1,36 @@
+2020-05-25/22:53:22		Error while creating table: unrecognized token: ".4y" 
+2020-05-25/22:53:22		File Moved Successfully bank-additional-full.csv
+2020-05-25/22:53:56		Error while creating table: unrecognized token: ".4y" 
+2020-05-25/22:53:56		File Moved Successfully bank-additional-full.csv
+2020-05-26/00:04:35		 bank-additional-full.csv: File loaded successfully!!
+2020-05-26/00:13:35		 bank-additional-full.csv: File loaded successfully!!
+2020-05-26/00:16:06		 bank-additional-full.csv: File loaded successfully!!
+2020-05-27/22:53:39		 bank-additional-full.csv: File loaded successfully!!
+2020-05-27/23:40:18		 bank-additional-full.csv: File loaded successfully!!
+2020-05-28/00:01:09		 bank-additional-full.csv: File loaded successfully!!
+2020-05-28/00:41:18		 bank-additional-full.csv: File loaded successfully!!
+2020-05-28/00:41:52		 bank-additional-full.csv: File loaded successfully!!
+2020-05-28/00:44:54		 bank-additional-full.csv: File loaded successfully!!
+2020-05-28/00:47:40		 bank-additional-full.csv: File loaded successfully!!
+2020-05-28/00:50:18		 bank-additional-full.csv: File loaded successfully!!
+2020-05-28/00:54:06		 bank-additional-full.csv: File loaded successfully!!
+2020-05-28/00:54:54		 bank-additional-full.csv: File loaded successfully!!
+2020-05-28/01:03:37		 bank-additional-full.csv: File loaded successfully!!
+2020-05-28/01:05:51		 bank-additional-full.csv: File loaded successfully!!
+2020-05-28/21:20:02		 bank-additional-full.csv: File loaded successfully!!
+2020-06-02/00:30:43		 bank-additional-full.csv: File loaded successfully!!
+2020-06-02/00:37:00		 bank-additional-full.csv: File loaded successfully!!
+2020-06-02/00:45:31		 bank-additional-full.csv: File loaded successfully!!
+2020-06-02/00:53:36		 bank-additional-full.csv: File loaded successfully!!
+2020-06-02/00:57:03		 bank-additional-full.csv: File loaded successfully!!
+2020-06-02/01:11:40		 bank-additional-full.csv: File loaded successfully!!
+2020-06-02/01:17:34		 bank-additional-full.csv: File loaded successfully!!
+2020-06-02/01:18:50		 bank-additional-full.csv: File loaded successfully!!
+2020-06-02/01:35:02		 bank-additional-full.csv: File loaded successfully!!
+2020-06-02/01:38:47		 bank-additional-full.csv: File loaded successfully!!
+2020-06-13/17:27:23		 bank-additional-full.csv: File loaded successfully!!
+2020-06-13/17:30:53		 bank-additional-full.csv: File loaded successfully!!
+2020-06-13/18:05:10		 bank-additional-full.csv: File loaded successfully!!
+2020-06-13/18:05:58		 bank-additional-full.csv: File loaded successfully!!
+2020-06-13/18:06:48		 bank-additional-full.csv: File loaded successfully!!
+2020-06-13/18:08:20		 bank-additional-full.csv: File loaded successfully!!
