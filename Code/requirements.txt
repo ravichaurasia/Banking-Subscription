@@ -9,7 +9,7 @@ cycler==0.10.0
 db==0.1.1
 db-sqlite3==0.0.1
 Flask==1.1.2
-Flask-Cors==3.0.8
+Flask-Cors==3.0.9
 Flask-MonitoringDashboard==3.0.9
 graphviz==0.14
 imbalanced-learn==0.6.2
