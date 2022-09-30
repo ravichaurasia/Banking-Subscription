@@ -16,7 +16,7 @@ imbalanced-learn==0.6.2
 imblearn==0.0
 itsdangerous==1.1.0
 Jinja2==2.11.1
-joblib==0.15.1
+joblib==1.2.0
 kiwisolver==1.2.0
 kneed==0.6.0
 lightgbm==2.3.1
